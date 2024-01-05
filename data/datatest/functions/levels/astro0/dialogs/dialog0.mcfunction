@@ -1,0 +1,2 @@
+tellraw @a[team=astro] ["","Главный герой: Ясно, видимо щиток сломался при приземлении. Чтобы открыть дверь мне нужно поместить сюда ",{"text":"провод","color":"#FF0000"},"."]
+scoreboard players set #std datatest.levels.astro0.dialogs.dialog0 0

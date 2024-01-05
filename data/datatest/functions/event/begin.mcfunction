@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~-0.3 ~ air run scoreboard players set @s datatest.event.inair 1
