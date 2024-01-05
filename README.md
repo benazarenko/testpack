@@ -1,0 +1,2 @@
+# testpack
+Test minecraft datapack
